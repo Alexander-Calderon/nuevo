@@ -58,7 +58,7 @@
 ```
 
 ### Black on Cyan - Top Left
-![Black on Yellow - Top Left](img/boctl.gif)
+![Black on Cyan - Top Left](img/boctl.gif)
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
@@ -68,7 +68,7 @@
 ```
 
 ### Black on Rainbow - Top Left
-![Black on Yellow - Top Left](img/bortl.gif)
+![Black on Rainbow - Top Left](img/bortl.gif)
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
