@@ -37,3 +37,17 @@ Copy and paste this html onto the page you want the ribbon to appear
     <span style="font-family: tahoma; font-size: 20px; position:absolute; top:30px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:yellow; color:black; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
 </a>
 ```
+
+### Black on Cyan - Top Left
+![Black on Yellow - Top Left](boctl.gif)
+```html
+<a href="[Your Repsitory URL Here]">
+    <span style="font-family: tahoma; font-size: 20px; position:absolute; top:30px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:cyan; color:black; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
+</a>
+```
+
+I think you get it by now,
+
+It's just html and css. You have full control over the color, rotation and placement. No external images or scripts. 
+
+
