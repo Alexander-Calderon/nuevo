@@ -1,8 +1,15 @@
 # 'Fork Me On GitLab' Ribbons
 
-## The HTML
+## About
 
-Copy and paste this html onto the page you want the ribbon to appear
+- Copy and paste the html of your desired ribbon onto the web page you want the ribbon to appear.
+
+- You have full control over the color, rotation and placement. 
+
+- It's just html and css. 
+
+- No external images or scripts. 
+
 
 ### Black on Hot Pink - Top Right
 ![Black on Hot Pink - Top Right](boptr.gif)
@@ -46,8 +53,6 @@ Copy and paste this html onto the page you want the ribbon to appear
 </a>
 ```
 
-I think you get it by now,
 
-It's just html and css. You have full control over the color, rotation and placement. No external images or scripts. 
 
 
