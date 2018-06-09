@@ -8,7 +8,11 @@
 
 - It's just html and css. 
 
-- No external images or scripts. 
+- Always in view in case of page scrolling.
+
+- No external images or scripts.
+
+- Fully GDPR Compliant.
 
 
 ### Black on Hot Pink - Top Right
