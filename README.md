@@ -21,7 +21,7 @@
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
-    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:hotpink; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork me on GitLab</span>
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:hotpink; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
 </a>
 <!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
 ```
@@ -32,7 +32,7 @@
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
-    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:blue; color:white; padding: 4px 30px 4px 30px; z-index:99">Fork me on GitLab</span>
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:blue; color:white; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
 </a>
 <!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
 ```
@@ -42,7 +42,7 @@
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
-    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:red; color:white; padding: 4px 30px 4px 30px; z-index:99">Fork me on GitLab</span>
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:red; color:white; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
 </a>
 <!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
 ```
@@ -52,7 +52,7 @@
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
-    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:yellow; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork me on GitLab</span>
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:yellow; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
 </a>
 <!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
 ```
@@ -62,7 +62,17 @@
 ```html
 <!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
 <a href="[Your Repository URL Here]">
-    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:cyan; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork me on GitLab</span>
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:cyan; color:black; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
+</a>
+<!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
+```
+
+### Black on Rainbow - Top Left
+![Black on Yellow - Top Left](img/bortl.gif)
+```html
+<!-- **** Begin Fork-Me-On-Gitlab-Ribbon-HTML. See MIT License at https://gitlab.com/seanwasere/fork-me-on-gitlab **** -->
+<a href="[Your Repository URL Here]">
+    <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background: red; background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); color:black; padding: 4px 30px 4px 30px; z-index:99">Fork Me On GitLab</span>
 </a>
 <!-- **** End Fork-Me-On-Gitlab-Ribbon-HTML **** -->
 ```
