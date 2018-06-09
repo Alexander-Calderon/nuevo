@@ -12,7 +12,7 @@
 
 
 ### Black on Hot Pink - Top Right
-![Black on Hot Pink - Top Right](boptr.gif)
+![Black on Hot Pink - Top Right](img/boptr.gif)
 
 ```html
 <a href="[Your Repository URL Here]">
@@ -22,7 +22,7 @@
 
 
 ### White on Blue - Top Right
-![White on Blue - Top Right](wobtr.gif)
+![White on Blue - Top Right](img/wobtr.gif)
 ```html
 <a href="[Your Repository URL Here]">
     <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:blue; color:white; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
@@ -30,7 +30,7 @@
 ```
 
 ### White on Red - Top Right
-![White on Red - Top Right](wortr.gif)
+![White on Red - Top Right](img/wortr.gif)
 ```html
 <a href="[Your Repository URL Here]">
     <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; right:-45px; display:block; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); background-color:red; color:white; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
@@ -38,7 +38,7 @@
 ```
 
 ### Black on Yellow - Top Left
-![Black on Yellow - Top Left](boytl.gif)
+![Black on Yellow - Top Left](img/boytl.gif)
 ```html
 <a href="[Your Repository URL Here]">
     <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:yellow; color:black; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
@@ -46,7 +46,7 @@
 ```
 
 ### Black on Cyan - Top Left
-![Black on Yellow - Top Left](boctl.gif)
+![Black on Yellow - Top Left](img/boctl.gif)
 ```html
 <a href="[Your Repository URL Here]">
     <span style="font-family: tahoma; font-size: 20px; position:fixed; top:50px; left:-45px; display:block; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); background-color:cyan; color:black; padding: 4px 30px 4px 30px">Fork me on GitLab</span>
